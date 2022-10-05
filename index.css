@@ -1,0 +1,47 @@
+
+
+body {
+    margin: 0;
+}
+
+button, .panel{
+    font-family:'CursedTimerULiL',sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color:#0C4A6A;
+    width: 50%;
+    margin: auto;
+    padding: 5%;
+    margin-top: 3%;
+    border-radius: 7px;  
+}
+
+.panel{
+    background-color: black;
+    color: red;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    font-size: 4em;
+   font-family: 'Cursed Timer ULiL', sans-serif;
+}
+
+.buttons{
+    margin-top: 20%;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+}
+
+button{
+    background-color: #0C4A6A;
+    border: 1px solid #BAE6FD;
+    color: #BAE6FD;
+}
+
+h3{
+    text-align: center;
+    font-size: 1.7em;
+    margin-bottom: 10%;
+}
